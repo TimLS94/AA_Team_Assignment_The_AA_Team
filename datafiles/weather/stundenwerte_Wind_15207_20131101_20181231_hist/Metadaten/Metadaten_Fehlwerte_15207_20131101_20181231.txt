@@ -1,0 +1,20 @@
+Stations_ID;Stations_Name;Parameter;Von_Datum;Bis_Datum;Anzahl_Fehlwerte;Beschreibung;eor;                                                                                                              
+15207;Schauenburg-Elgershausen;F;11.01.2015-02:00;12.01.2015-07:00;30;;eor;                                                                                                                             
+15207;Schauenburg-Elgershausen;F;15.09.2015-08:00;15.09.2015-14:00;7;;eor;                                                                                                                              
+15207;Schauenburg-Elgershausen;F;03.08.2016-23:00;06.08.2016-17:00;67;;eor;                                                                                                                             
+15207;Schauenburg-Elgershausen;F;07.02.2017-11:00;07.02.2017-12:00;2;;eor;                                                                                                                              
+15207;Schauenburg-Elgershausen;F;07.10.2017-00:00;07.10.2017-23:00;24;;eor;                                                                                                                             
+15207;Schauenburg-Elgershausen;F;26.07.2018-00:00;26.07.2018-01:00;2;;eor;                                                                                                                              
+15207;Schauenburg-Elgershausen;F;27.07.2018-00:00;27.07.2018-02:00;3;;eor;                                                                                                                              
+15207;Schauenburg-Elgershausen;F;27.07.2018-23:00;28.07.2018-00:00;2;;eor;                                                                                                                              
+15207;Schauenburg-Elgershausen;F;03.08.2018-22:00;03.08.2018-22:00;1;;eor;                                                                                                                              
+15207;Schauenburg-Elgershausen;D;11.01.2015-02:00;12.01.2015-06:00;29;;eor;                                                                                                                             
+15207;Schauenburg-Elgershausen;D;15.09.2015-09:00;15.09.2015-13:00;5;;eor;                                                                                                                              
+15207;Schauenburg-Elgershausen;D;03.08.2016-23:00;06.08.2016-17:00;67;;eor;                                                                                                                             
+15207;Schauenburg-Elgershausen;D;07.02.2017-11:00;07.02.2017-12:00;2;;eor;                                                                                                                              
+15207;Schauenburg-Elgershausen;D;07.10.2017-00:00;07.10.2017-23:00;24;;eor;                                                                                                                             
+15207;Schauenburg-Elgershausen;D;26.07.2018-00:00;26.07.2018-00:00;1;;eor;                                                                                                                              
+15207;Schauenburg-Elgershausen;D;27.07.2018-00:00;27.07.2018-02:00;3;;eor;                                                                                                                              
+15207;Schauenburg-Elgershausen;D;27.07.2018-23:00;28.07.2018-00:00;2;;eor;                                                                                                                              
+15207;Schauenburg-Elgershausen;D;03.08.2018-22:00;03.08.2018-22:00;1;;eor;                                                                                                                              
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --                                                                                                                                                    

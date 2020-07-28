@@ -1,0 +1,4 @@
+Stations_ID;Von_Datum;Bis_Datum;Stationsname;Parameter;Parameterbeschreibung;Einheit;Datenquelle (Strukturversion=SV);Zusatz-Info;Besonderheiten;Literaturhinweis;eor;
+15207;20131101;20190306;Schauenburg-Elgershausen;SD_SO;stdl. Sonnenscheindauer;;Daten der Sonnenscheindauer (Stundensummen) generiert aus stündlichen SYNOP-Meldungen (nach 01.04.2001);Stundenwerte in UTC;;;eor;
+Legende: FT  = Folgetag; GZ = Gesetzliche Zeit
+generiert: 07.03.2019 --  Deutscher Wetterdienst  --
